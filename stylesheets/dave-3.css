@@ -1,0 +1,109 @@
+body {
+	background: black;
+	/*background: url(../images/960.gif) repeat-y 0 0;*/
+	font-family: 'Metamorphous', cursive;
+	color: #fff;
+}
+
+
+blockquote cite.source a { color: #777; text-decoration: none; font-style: normal; }
+blockquote cite.source a:hover { color: #901a12; }
+
+h1, h2 {
+	font-family: 'Metamorphous', cursive;
+	text-transform: uppercase;
+	color: #d81c01;
+	text-align: center;
+	font-size: 56px;
+	letter-spacing: -1px;
+	}
+h1 {
+	padding: 0;
+	margin: 0 auto 0 auto;
+	}
+	
+	
+h1 {
+	background: #901a12 url(../images/torchure-chamber-logo.png) no-repeat 0 0;
+	text-indent: -2000px;
+	}
+	
+/*.wrapper {position: relative;}
+.overlay { display: block;
+	width: 744px;
+	height: 100px;
+	position: absolute; 
+	top: 0;
+	left: 0;
+	background: url(../images/overlay.png) repeat-x 0 0; }*/
+
+h2 {
+	color: #d81c01;
+	font-size: 36px;
+	text-align: left;
+	margin: 12px 0 5px 0;
+	}
+
+h3 {
+	color: #901a12;
+	font-size: 18px;
+	text-align: center;
+	margin: 0;
+	padding:0;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-weight: bold;
+	}
+
+	
+hr {
+	color: #ccc;
+	}
+	
+p {
+	font-family: 'Neuton', serif;
+	font-size: 18px;
+	color: #777;
+	line-height: 18px;
+	}
+	
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16/9 ratio */
+    padding-top: 30px; /* IE6 workaround*/
+    height: 0;
+    overflow: hidden;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+.footer {
+	text-align: right;
+	color: #ccc;
+	font-size: 15px;
+	}
+	
+blockquote {
+	border-left: 0;
+	border-right: 1px solid #777;
+	margin-top: 9px;
+	
+	}
+
+blockquote cite.source {
+		font-family: 'Neuton', serif;
+		text-align: right;
+		font-size: 18px;
+		line-height: 18px;
+		margin-top: 18px;
+		display: block;
+		}

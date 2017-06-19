@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="http://brewjersey.net/podcast.xsl"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+	
+			<title>BrewJersey Podcast</title>
+			<link>http://www.brewjersey.net</link>
+			<language>en-us</language>
+			<copyright>Copyright 2017, The Mechanism, llc., Distributor.</copyright>
+			<itunes:subtitle>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss, debate and sample New Jersey microbrews.</itunes:subtitle>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
+			<itunes:summary>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.</itunes:summary>
+			<description>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrewery, Carton Brewery and their fantastic Rum-Barrel-Aged Porter, Stormy.</description>
+			
+			<itunes:owner>
+				<itunes:name>Brew Jersey</itunes:name>
+				<itunes:email>podcast@brewjersey.net</itunes:email>
+			</itunes:owner>
+			
+			<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />
+			<itunes:category text="Arts"><itunes:category text="Food"/></itunes:category>
+			<itunes:explicit>no</itunes:explicit>
+
+
+		<item>
+			<title>Brew Jersey Cast: Episode 1 (The Eye of the Stormy)</title>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
+			<itunes:subtitle>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy.</itunes:subtitle>
+			<description>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy.</description>
+			<itunes:summary>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy.</itunes:summary>	
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey.m4a" length="30366967" type="audio/mpeg" />	
+			<guid>http://brewjersey.net/podcast/audio/BrewJersey.m4a</guid>	
+			<pubDate>Mon, 12 Sep 2016 23:02:15 GMT</pubDate>	
+			<itunes:duration>30:52</itunes:duration>	
+			<itunes:keywords>beer,microbrewery,new jersey,brewing,carton brewing</itunes:keywords>
+		</item>
+
+		<item>
+			<title>Brew Jersey Cast: Episode 2 (KBS Madness in Essex)</title>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
+			<itunes:subtitle>The fellas discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever.</itunes:subtitle>
+			<description>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever.</description>
+			<itunes:summary>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever.</itunes:summary>	
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-2.mp3" length="34171006" type="audio/mpeg" />	
+			<guid>http://brewjersey.net/podcast/audio/BrewJersey-2.mp3</guid>	
+			<pubDate>Wed, 26 Apr 2017 23:02:15 GMT</pubDate>	
+			<itunes:duration>23:43</itunes:duration>	
+			<itunes:keywords>beer,microbrewery,new jersey,brewing,founders,KBS,beer,beer authority</itunes:keywords>
+		</item>
+
+		<item>
+			<title>Brew Jersey Cast: Episode 3 (Homes Brewery + Ramstein Interview)</title>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
+			<itunes:subtitle>Mike and Dave experience a growler of "Same Same Different" from Homes Brewery in Ann Arbor, MI.</itunes:subtitle>
+			<description>Mike and Dave try a growler of "Same Same Different" from Homes Brewery in Ann Arbor, MI. http://www.homesbrewery.com/ and then bring it back home with an exclusive interview with Greg Zaccardi, Founder of High Point Brewing in Butler, New Jersey http://ramsteinbeer.com/ from Oktoberfest in Montclair, NJ in Oct 2016.</description>
+			<itunes:summary>Mike and Dave try a growler of "Same Same Different" from Homes Brewery in Ann Arbor, MI. http://www.homesbrewery.com/ and then bring it back home with an exclusive interview with Greg Zaccardi, Founder of High Point Brewing in Butler, New Jersey http://ramsteinbeer.com/ from Oktoberfest in Montclair, NJ in Oct 2016.</itunes:summary>	
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-3.mp3" length="15125233" type="audio/mpeg" />	
+			<guid>http://brewjersey.net/podcast/audio/BrewJersey-3.mp3</guid>	
+			<pubDate>Friday, 28 Apr 2017 23:02:15 GMT</pubDate>	
+			<itunes:duration>10:30</itunes:duration>	
+			<itunes:keywords>beer,microbrewery,new jersey,brewing,founders,KBS,beer,beer authority</itunes:keywords>
+		</item>
+
+		<item>
+			<title>Brew Jersey Cast: Episode 4 (Magnified Growlers)</title>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
+			<itunes:subtitle>For Mike's birthday, the lads try a growler of "Vine Shine IPA" from Magnify Brewing Company in Fairfield, NJ (http://magnifybrewing.com), Gary's and Bottle King in Wayne, discuss bringing your kids to a brewery, and wrap it up with the British translation of Growler and Fanny. Fun for nearly the whole family in this episode. Don't forget to wish Mike a Happy Birthday in the comments.</itunes:subtitle>
+			<description>For Mike's birthday, the lads try a growler of "Vine Shine IPA" from Magnify Brewing Company in Fairfield, NJ (http://magnifybrewing.com), Gary's and Bottle King in Wayne, discuss bringing your kids to a brewery, and wrap it up with the British translation of Growler and Fanny. Fun for nearly the whole family in this episode. Don't forget to wish Mike a Happy Birthday in the comments.</description>
+			<itunes:summary>On Mike's birthday, the lads try a growler of "Vine Shine IPA" from Magnify Brewing Company in Fairfield, NJ.</itunes:summary>	
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-4.mp3" length="23333742" type="audio/mpeg" />	
+			<guid>http://brewjersey.net/podcast/audio/BrewJersey-4.mp3</guid>	
+			<pubDate>Wed, 24 May 2017 23:02:15 GMT</pubDate>	
+			<itunes:duration>16:12</itunes:duration>	
+			<itunes:keywords>beer,microbrewery,new jersey,brewing,magnify brewing company,bottle king, garys</itunes:keywords>
+		</item>
+	</channel>
+</rss>
