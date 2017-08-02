@@ -74,5 +74,19 @@
 			<itunes:duration>16:12</itunes:duration>	
 			<itunes:keywords>beer,microbrewery,new jersey,brewing,magnify brewing company,bottle king, garys</itunes:keywords>
 		</item>
+
+		<item>
+			<title>Brew Jersey Cast: Episode 5 (Boonton Rock & Brew)</title>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
+			<itunes:subtitle>Episode 5 - Mike and Dave discuss Dave's solo flight at the Boonton Rock & Brew beer festival. While there, Dave runs into Rick Reed, Founder of Cricket Hill, as well as Charlie from Cypress Brewing Company and Bill from Pinelands Brewing. Hijinks ensue.</itunes:subtitle>
+			<description>Episode 5 - Mike and Dave discuss Dave's solo flight at the Boonton Rock & Brew beer festival. While there, Dave runs into Rick Reed, Founder of Cricket Hill, as well as Charlie from Cypress Brewing Company and Bill from Pinelands Brewing. Hijinks ensue.</description>
+			<itunes:summary>Dave's solo flight at the Boonton Rock & Brew beer festival.</itunes:summary>	
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-5.mp3" length="42409609" type="audio/mpeg" />	
+			<guid>http://brewjersey.net/podcast/audio/BrewJersey-5.mp3</guid>	
+			<pubDate>Wed, 2 August 2017 23:02:15 GMT</pubDate>	
+			<itunes:duration>29:27</itunes:duration>	
+			<itunes:keywords>beer,microbrewery,new jersey,brewing,cricket hill,boonton,rocknbrew,pinelandsbrewing,beerfest,cypressbrewing</itunes:keywords>
+		</item>
+
 	</channel>
 </rss>
