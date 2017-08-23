@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="XSL_formatting" type="text/xsl" href="http://brewjersey.net/podcast.xsl"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<link>http://www.brewjersey.net</link>
+		<title>Brew Jersey Podcast</title>
 		<language>en-us</language>
 		<copyright>Copyright 2017, The Mechanism, llc., Distributor.</copyright>
 		<webMaster>dave.fletcher@themechanism.com (Dave Fletcher)</webMaster>
