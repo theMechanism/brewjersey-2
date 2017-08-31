@@ -34,8 +34,21 @@
 			<itunes:subtitle>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss, debate and sample New Jersey microbrews.</itunes:subtitle>
 			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 			<itunes:summary>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.</itunes:summary>
-			<description>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrewery, Carton Brewery and their fantastic Rum-Barrel-Aged Porter, Stormy.</description>
+			<description>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.</description>
 			
+		<item>
+			<title>Brew Jersey Podcast: Episode 7 (Yo, Ho, Ho, and a Bottle of Cold Spring Red)</title>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
+			<itunes:subtitle>Dave travels to historic Cold Spring Village/Exit Zero in Cape May to sample a Cold Spring Red.</itunes:subtitle>
+			<description>Dave travels to historic Cold Spring Village/Exit Zero in Cape May to sample a Cold Spring Red. On the way to the brewery, he passes through Cold Spring Village, a traditional village with a schoolhouse, blacksmith and a pirate festival. Dave tells Mike all about it. Hijinx and livations ensue.</description>
+			<itunes:summary>Dave travels to historic Cold Spring Village/Exit Zero in Cape May to sample a Cold Spring Red.</itunes:summary>	
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-7.mp3" length="15845586" type="audio/mpeg" />	
+			<guid>http://brewjersey.net/podcast/audio/BrewJersey-6.mp3</guid>	
+			<pubDate>Wed, 31 Aug 2017 23:02:15 GMT</pubDate>	
+			<itunes:duration>11:00</itunes:duration>	
+			<itunes:keywords>beer,microbrewery,new jersey,brewing,cold spring brewing,historic cold spring village,mark mcpherson,cold spring red,exit zero</itunes:keywords>
+		</item>
+
 			
 		<item>
 			<title>Brew Jersey Podcast: Episode 6 (Yogi Beer)</title>
