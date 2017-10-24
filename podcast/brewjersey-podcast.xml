@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="XSL_formatting" type="text/xsl" href="http://brewjersey.net/podcast.xsl"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
+		<atom:link href="http://brewjersey.net/podcast/brewjersey-podcast.xml" rel="self" type="application/rss+xml" />
+		<title>Brew Jersey Podcast with Mike Auteri and Dave Fletcher</title>
 		<link>http://www.brewjersey.net</link>
-		<title>Brew Jersey Podcast</title>
 		<language>en-us</language>
 		<copyright>Copyright 2017, The Mechanism, llc., Distributor.</copyright>
 		<webMaster>dave.fletcher@themechanism.com (Dave Fletcher)</webMaster>
@@ -15,7 +17,7 @@
 			</image>
 			
 			<itunes:owner>
-				<itunes:name>Brew Jersey</itunes:name>
+				<itunes:name><![CDATA[Brew Jersey]]></itunes:name>
 				<itunes:email>podcast@brewjersey.net</itunes:email>
 			</itunes:owner>
 			
@@ -25,126 +27,167 @@
 			
 			<itunes:keywords>beer, brewing, new jersey, cedar grove, verona, discussion, brewmaster</itunes:keywords>
 			<itunes:explicit>no</itunes:explicit>
-			<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />
-			<atom:link href="http://brewjersey.net/podcast/brewjersey-podcast.xml" rel="self" type="application/rss+xml" />			
+			<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />						
 			<pubDate>Mon, 12 Sep 2016 23:02:15 EST</pubDate>
-			
-			
-			
 			<itunes:subtitle>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss, debate and sample New Jersey microbrews.</itunes:subtitle>
 			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 			<itunes:summary>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.</itunes:summary>
 			<description>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.</description>
-			
+		<itunes:type>episodic</itunes:type>
 
 		<item>
-			<title>Brew Jersey Podcast: Episode 8 (The Story of Hoboken Brewing / Part 1)</title>
-			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
-			<itunes:subtitle>Hoboken Brewing Company's Andrew Zebrowski and Brendan Drury join us at the firepit to tell us about the history of Hoboken Brewing Company.</itunes:subtitle>
-			<description><a href="http://www.hobokenbrewing.beer/">Hoboken Brewing Company's</a> Andrew Zebrowski and Brendan Drury started brewing beer in their garage and won several home brewing contests. They say that this inspired them to go bigger and start making beer professionally. Mike and Dave dig deeper into their story as they join us at the fire pit to tell us about the history of their friendship, why they started the company, and where they are headed. Also, Tony Forder Editor/President at Ale Street News delivers our first <a href="https://alestreetnews.com/">Ale Street News</a> Report all the way from the <a href="http://www.riodecerveza.com/">Fifth Annual Rio De Cerveza Brew Fest</a>.</description>
-			<itunes:summary>Hoboken Brewing Company's Andrew Zebrowski and Brendan Drury join us at the firepit to tell us about the history of Hoboken Brewing Company.</itunes:summary>	
-			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-8.mp3" length="31165462" type="audio/mpeg" />	
-			<guid>http://brewjersey.net/podcast/audio/BrewJersey-8.mp3</guid>	
+			<title>Episode 8 - The Story of Hoboken Brewing (Part 1)</title>
+			<itunes:title>The Story of Hoboken Brewing (Part 1)</itunes:title>
 			<pubDate>Tue, 24 Oct 2017 08:00:15 EST</pubDate>	
+			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey-8.mp3</guid>	
+			<itunes:image href="http://brewjersey.net/podcast/images/episode-8.png" />
+			<description><![CDATA[<p><a href="http://www.hobokenbrewing.beer/">Hoboken Brewing Company's</a> Andrew Zebrowski and Brendan Drury started brewing beer in their garage and won several home brewing contests. They say that this inspired them to go bigger and start making beer professionally. Mike and Dave dig deeper into their story as they join us at the fire pit to tell us about the history of their friendship, why they started the company, and where they are headed. Also, Tony Forder Editor/President at Ale Street News delivers our first <a href="https://alestreetnews.com/">Ale Street News</a> Report all the way from the <a href="http://www.riodecerveza.com/">Fifth Annual Rio De Cerveza Brew Fest</a>.</p>]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.hobokenbrewing.beer/">Hoboken Brewing Company's</a> Andrew Zebrowski and Brendan Drury started brewing beer in their garage and won several home brewing contests. They say that this inspired them to go bigger and start making beer professionally. Mike and Dave dig deeper into their story as they join us at the fire pit to tell us about the history of their friendship, why they started the company, and where they are headed. Also, Tony Forder Editor/President at Ale Street News delivers our first <a href="https://alestreetnews.com/">Ale Street News</a> Report all the way from the <a href="http://www.riodecerveza.com/">Fifth Annual Rio De Cerveza Brew Fest</a>.</p>]]></content:encoded>
+			<enclosure length="31165462" type="audio/mpeg" url="http://brewjersey.net/podcast/audio/BrewJersey-8.mp3" />	
 			<itunes:duration>21:38</itunes:duration>	
+			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>brew jersey,hoboken brewing,andrew zebrowski,brendan drury,ale street news,tony forder,beer,microbrewery,new jersey,brewing</itunes:keywords>
+			<itunes:subtitle><![CDATA[Hoboken Brewing Company's Andrew Zebrowski and Brendan Drury join us at the firepit to tell us about the history of Hoboken Brewing Company...]]></itunes:subtitle>
+			<itunes:summary>Hoboken Brewing Company's Andrew Zebrowski and Brendan Drury join us at the firepit to tell us about the history of Hoboken Brewing Company...</itunes:summary>	
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 		</item>
 
 		<item>
-			<title>Brew Jersey Podcast: Episode 7 (Yo, Ho, Ho, and a Bottle of Cold Spring Red)</title>
-			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
-			<itunes:subtitle>Dave travels to historic Cold Spring Village/Exit Zero in Cape May to sample a Cold Spring Red.</itunes:subtitle>
-			<description>Dave travels to historic Cold Spring Village/Exit Zero in Cape May to sample a Cold Spring Red. On the way to the brewery, he passes through Cold Spring Village, a traditional village with a schoolhouse, blacksmith and a pirate festival. Dave tells Mike all about it. Hijinx and livations ensue.</description>
-			<itunes:summary>Dave travels to historic Cold Spring Village/Exit Zero in Cape May to sample a Cold Spring Red.</itunes:summary>	
-			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-7.mp3" length="15845586" type="audio/mpeg" />	
-			<guid>http://brewjersey.net/podcast/audio/BrewJersey-7.mp3</guid>	
+			<title>Episode 7 - Yo, Ho, Ho, and a Bottle of Cold Spring Red</title>
+			<itunes:title>Yo, Ho, Ho, and a Bottle of Cold Spring Red</itunes:title>
 			<pubDate>Tue, 29 Aug 2017 08:00:15 EST</pubDate>	
+			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey-7.mp3</guid>	
+			<itunes:image href="http://brewjersey.net/podcast/images/episode-7.png" />
+			<description><![CDATA[<p>Dave travels to historic <a href="https://coldspringbrewery.org/">Cold Spring Brewery</a> /Exit Zero in Cape May to sample a Cold Spring Red. On the way to the brewery, he passes through <a href="https://hcsv.org/">Cold Spring Village</a>, a traditional village with a schoolhouse, blacksmith and a pirate festival. Dave tells Mike all about it. Hijinx and livations ensue.</p>]]></description>
+			<content:encoded><![CDATA[<p>Dave travels to historic <a href="https://coldspringbrewery.org/">Cold Spring Brewery</a> /Exit Zero in Cape May to sample a Cold Spring Red. On the way to the brewery, he passes through <a href="https://hcsv.org/">Cold Spring Village</a>, a traditional village with a schoolhouse, blacksmith and a pirate festival. Dave tells Mike all about it. Hijinx and livations ensue.</p>]]></content:encoded>
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-7.mp3" length="15845586" type="audio/mpeg" />	
 			<itunes:duration>11:00</itunes:duration>	
+			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>beer,microbrewery,new jersey,brewing,cold spring brewing,historic cold spring village,mark mcpherson,cold spring red,exit zero</itunes:keywords>
+			<itunes:subtitle><![CDATA[Dave travels to historic Cold Spring Brewery/Exit Zero in Cape May to sample a Cold Spring Red....]]></itunes:subtitle>
+			<itunes:summary>Dave travels to historic Cold Spring Brewery/Exit Zero in Cape May to sample a Cold Spring Red....</itunes:summary>				
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 		</item>
-
 			
 		<item>
-			<title>Brew Jersey Podcast: Episode 6 (Yogi Beer)</title>
-			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
-			<itunes:subtitle>Mike and Dave enjoy the rage and fury of Alementary Brewing Co.'s weekly Yoga Fury event every Sunday at 11am at their brewing facility in Hackensack, NJ.</itunes:subtitle>
-			<description>Mike and Dave enjoy the rage and fury of Alementary Brewing Co.'s weekly Yoga Fury event every Sunday at 11am at their brewing facility in Hackensack, NJ. Participants experience Yoga Fury with instructor Kurt Reineking and enjoy an excellent craft beer from The Alementary afterwards. Mike and Dave also gab with Tony Forder, one of the founders of Ale Street News and Chelsea Days from The Alementary. Hijinks ensue.</description>
-			<itunes:summary>Excitement and fun at The Alementary for Yoga Fury and beer with Kurt Reineking, Tony Forder and Chelsea Lancaster.</itunes:summary>	
-			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-6.mp3" length="33701429" type="audio/mpeg" />	
-			<guid>http://brewjersey.net/podcast/audio/BrewJersey-6.mp3</guid>	
+			<title>Episode 6 - Yogi Beer</title>
+			<itunes:title>Yogi Beer</itunes:title>
 			<pubDate>Tue, 22 Aug 2017 23:02:15 EST</pubDate>	
+			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey-6.mp3</guid>	
+			<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />
+			<description><![CDATA[<p>Mike and Dave enjoy the rage and fury of <a href="http://www.alementary.com/">Alementary Brewing Co.'s</a> weekly Yoga Fury event every Sunday at 11am at their brewing facility in Hackensack, NJ. Participants experience Yoga Fury with instructor Kurt Reineking and enjoy an excellent craft beer from The Alementary afterwards. Mike and Dave also gab with Tony Forder, one of the founders of <a href="http://www.alestreetnews.com">Ale Street News</a> and Chelsea Days from The Alementary. Hijinks ensue.</p>]]></description>			
+			<content:encoded><![CDATA[<p>Mike and Dave enjoy the rage and fury of <a href="http://www.alementary.com/">Alementary Brewing Co.'s</a> weekly Yoga Fury event every Sunday at 11am at their brewing facility in Hackensack, NJ. Participants experience Yoga Fury with instructor Kurt Reineking and enjoy an excellent craft beer from The Alementary afterwards. Mike and Dave also gab with Tony Forder, one of the founders of <a href="http://www.alestreetnews.com">Ale Street News</a> and Chelsea Days from The Alementary. Hijinks ensue.</p>]]></content:encoded>
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-6.mp3" length="33701429" type="audio/mpeg" />	
 			<itunes:duration>23:24</itunes:duration>	
+			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>beer,microbrewery,new jersey,brewing,the alementary, hackensack, ale street news, kurt reineking, chelsea days, tony forder</itunes:keywords>
+			<itunes:subtitle><![CDATA[Mike and Dave enjoy the rage and fury of Alementary Brewing Co.'s weekly Yoga Fury event every Sunday at 11am at their brewing facility in Hackensack, NJ...]]></itunes:subtitle>
+			<itunes:summary>Excitement and fun at The Alementary for Yoga Fury and beer with Kurt Reineking, Tony Forder and Chelsea Lancaster.</itunes:summary>	
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 		</item>
 		
 		<item>
-			<title>Brew Jersey Podcast: Episode 5 (Boonton Rock + Brew)</title>
-			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
-			<itunes:subtitle>Mike and Dave discuss Dave's solo flight at the Boonton Rock &amp; Brew beer festival. While there, Dave runs into Rick Reed, Founder of Cricket Hill, as well as Charlie from Cypress Brewing Company and Bill from Pinelands Brewing. Hijinks ensue.</itunes:subtitle>
-			<description>Mike and Dave discuss Dave's solo flight at the Boonton Rock &amp; Brew beer festival. While there, Dave runs into Rick Reed, Founder of Cricket Hill, as well as Charlie from Cypress Brewing Company and Bill from Pinelands Brewing. Hijinks ensue.</description>
-			<itunes:summary>Dave's solo flight at the Boonton Rock &amp; Brew beer festival.</itunes:summary>	
-			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-5.mp3" length="42409609" type="audio/mpeg" />	
-			<guid>http://brewjersey.net/podcast/audio/BrewJersey-5.mp3</guid>	
+			<title>Episode 5 - The Boonton Rock + Brew</title>
+			<itunes:title>The Boonton Rock + Brew</itunes:title>
 			<pubDate>Wed, 2 Aug 2017 23:02:15 EST</pubDate>	
+			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey-5.mp3</guid>	
+			<itunes:image href="http://brewjersey.net/podcast/images/episode-5.png" />
+			<description><![CDATA[<p>Mike and Dave discuss Dave's solo flight at the Boonton Rock &amp; Brew beer festival. While there, Dave runs into Rick Reed, Founder of <a href="http://www.crickethillbrewery.com/">Cricket Hill Brewery</a>, as well as Charlie from <a href="http://cypressbrewing.com/">Cypress Brewing Company</a> and Bill from <a href="https://www.pinelandsbrewing.com/">Pinelands Brewing</a>. Hijinks ensue.</p>]]></description>
+			<content:encoded><![CDATA[<p>Mike and Dave discuss Dave's solo flight at the Boonton Rock &amp; Brew beer festival. While there, Dave runs into Rick Reed, Founder of <a href="http://www.crickethillbrewery.com/">Cricket Hill Brewery</a>, as well as Charlie from <a href="http://cypressbrewing.com/">Cypress Brewing Company</a> and Bill from <a href="https://www.pinelandsbrewing.com/">Pinelands Brewing</a>. Hijinks ensue.</p>]]></content:encoded>
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-5.mp3" length="42409609" type="audio/mpeg" />	
 			<itunes:duration>29:27</itunes:duration>	
+			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>beer,microbrewery,new jersey,brewing,cricket hill,boonton,rocknbrew,pinelandsbrewing,beerfest,cypressbrewing</itunes:keywords>
+			<itunes:subtitle><![CDATA[ike and Dave discuss Dave's solo flight at the <a href="https://www.facebook.com/events/343738626009713/">Boonton Rock &amp; Brew</a> beer festival. While there, Dave runs into Rick Reed, Founder of Cricket Hill, as well as Charlie from Cypress Brewing Company and Bill from Pinelands Brewing. Hijinks ensue...]]></itunes:subtitle>
+			<itunes:summary>Dave's solo flight at the Boonton Rock &amp; Brew beer festival...</itunes:summary>	
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 		</item>
 
 		<item>
-			<title>Brew Jersey Podcast: Episode 4 (Magnified Growlers)</title>
-			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
-			<itunes:subtitle>For Mike's birthday, the lads try a growler of "Vine Shine IPA" from Magnify Brewing Company in Fairfield, NJ (http://magnifybrewing.com).</itunes:subtitle>
-			<description>For Mike's birthday, the lads try a growler of "Vine Shine IPA" from Magnify Brewing Company in Fairfield, NJ (http://magnifybrewing.com), Gary's and Bottle King in Wayne, discuss bringing your kids to a brewery, and wrap it up with the British translation of Growler and Fanny. Fun for nearly the whole family in this episode. Don't forget to wish Mike a Happy Birthday in the comments.</description>
-			<itunes:summary>On Mike's birthday, the lads try a growler of "Vine Shine IPA" from Magnify Brewing Company in Fairfield, NJ.</itunes:summary>	
-			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-4.mp3" length="23333742" type="audio/mpeg" />	
-			<guid>http://brewjersey.net/podcast/audio/BrewJersey-4.mp3</guid>	
+			<title>Episode 4 - Magnified Growlers</title>
+			<itunes:title>Magnified Growlers</itunes:title>
 			<pubDate>Wed, 24 May 2017 23:02:15 EST</pubDate>	
+			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey-4.mp3</guid>	
+			<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />
+			<description><![CDATA[<p>For Mike's birthday, the lads try a growler of "Vine Shine IPA" from <a href="http://magnifybrewing.com">Magnify Brewing Company</a> in Fairfield, NJ, Gary's and Bottle King in Wayne, discuss bringing your kids to a brewery, and wrap it up with the British translation of Growler and Fanny. Fun for nearly the whole family in this episode. Don't forget to wish Mike a Happy Birthday in the comments.</p>]]></description>
+			<content:encoded><![CDATA[<p>For Mike's birthday, the lads try a growler of "Vine Shine IPA" from <a href="http://magnifybrewing.com">Magnify Brewing Company</a> in Fairfield, NJ, Gary's and Bottle King in Wayne, discuss bringing your kids to a brewery, and wrap it up with the British translation of Growler and Fanny. Fun for nearly the whole family in this episode. Don't forget to wish Mike a Happy Birthday in the comments.</p>]]></content:encoded>
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-4.mp3" length="23333742" type="audio/mpeg" />	
 			<itunes:duration>16:12</itunes:duration>	
+			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>beer,microbrewery,new jersey,brewing,magnify brewing company,bottle king, garys</itunes:keywords>
-		</item>
-		<item>
-			<title>Brew Jersey Podcast: Episode 3 (Homes Brewery + Ramstein Interview)</title>
+			<itunes:subtitle><![CDATA[For Mike's birthday, the lads try a growler of "Vine Shine IPA" from Magnify Brewing Company in Fairfield, NJ...]]></itunes:subtitle>
+			<itunes:summary>On Mike's birthday, the lads try a growler of "Vine Shine IPA" from Magnify Brewing Company in Fairfield, NJ.</itunes:summary>	
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
-			<itunes:subtitle>Mike and Dave experience a growler of "Same Same Different" from Homes Brewery in Ann Arbor, MI.</itunes:subtitle>
-			<description>Mike and Dave try a growler of "Same Same Different" from Homes Brewery in Ann Arbor, MI. http://www.homesbrewery.com/ and then bring it back home with an exclusive interview with Greg Zaccardi, Founder of High Point Brewing in Butler, New Jersey http://ramsteinbeer.com/ from Oktoberfest in Montclair, NJ in Oct 2016.</description>
-			<itunes:summary>Mike and Dave try a growler of "Same Same Different" from Homes Brewery in Ann Arbor, MI. http://www.homesbrewery.com/ and then bring it back home with an exclusive interview with Greg Zaccardi, Founder of High Point Brewing in Butler, New Jersey http://ramsteinbeer.com/ from Oktoberfest in Montclair, NJ in Oct 2016.</itunes:summary>	
-			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-3.mp3" length="15125233" type="audio/mpeg" />	
-			<guid>http://brewjersey.net/podcast/audio/BrewJersey-3.mp3</guid>	
+		</item>
+
+
+		<item>
+			<title>Episode 3 - Homes Brewery + Ramstein Interview</title>
+			<itunes:title>Homes Brewery + Ramstein Interview</itunes:title>
 			<pubDate>Fri, 28 Apr 2017 23:02:15 EST</pubDate>	
+			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey-3.mp3</guid>	
+			<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />
+			<description><![CDATA[<p>Mike and Dave try a growler of "Same Same Different" from <a href="http://www.homesbrewery.com/">Homes Brewery</a> in Ann Arbor, MI. and then bring it back home with an exclusive interview with Greg Zaccardi, Founder of <a href="http://ramsteinbeer.com/">High Point Brewing</a> in Butler, New Jersey from Oktoberfest in Montclair, NJ in Oct 2016.</p>]]></description>		
+			<content:encoded><![CDATA[<p>Mike and Dave try a growler of "Same Same Different" from <a href="http://www.homesbrewery.com/">Homes Brewery</a> in Ann Arbor, MI. and then bring it back home with an exclusive interview with Greg Zaccardi, Founder of <a href="http://ramsteinbeer.com/">High Point Brewing</a> in Butler, New Jersey from Oktoberfest in Montclair, NJ in Oct 2016.</p>]]></content:encoded>
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-3.mp3" length="15125233" type="audio/mpeg" />	
 			<itunes:duration>10:30</itunes:duration>	
+			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>beer,microbrewery,new jersey,brewing,founders,KBS,beer,beer authority</itunes:keywords>
+			<itunes:subtitle><![CDATA[Mike and Dave experience a growler of "Same Same Different" from Homes Brewery in Ann Arbor, MI...]]></itunes:subtitle>
+			<itunes:summary><![CDATA[Mike and Dave experience a growler of "Same Same Different" from Homes Brewery in Ann Arbor, MI...]]></itunes:summary>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 		</item>
 
 
 		<item>
-			<title>Brew Jersey Podcast: Episode 2 (KBS Madness in Essex)</title>
-			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
-			<itunes:subtitle>The fellas discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever.</itunes:subtitle>
-			<description>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever.</description>
-			<itunes:summary>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever.</itunes:summary>	
-			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-2.mp3" length="34171006" type="audio/mpeg" />	
-			<guid>http://brewjersey.net/podcast/audio/BrewJersey-2.mp3</guid>	
+			<title>Episode 2 - KBS Madness in Essex</title>
+			<itunes:title>KBS Madness in Essex</itunes:title>
 			<pubDate>Wed, 26 Apr 2017 23:02:15 EST</pubDate>	
+			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey-2.mp3</guid>	
+			<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />
+			<description><![CDATA[<p>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever.</p>]]></description>			
+			<content:encoded><![CDATA[<p>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever.</p>]]></content:encoded>
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey-2.mp3" length="34171006" type="audio/mpeg" />	
 			<itunes:duration>23:43</itunes:duration>	
+			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>beer,microbrewery,new jersey,brewing,founders,KBS,beer,beer authority</itunes:keywords>
+			<itunes:subtitle><![CDATA[The fellas discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever...]]></itunes:subtitle>
+			<itunes:summary>The fellas discuss the recent statewide frenzy over Founders KBS, NYC's Beer Authority, Rattle-n-Hum, and their first beer ever...</itunes:summary>	
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 		</item>
 
 		<item>
-			<title>Brew Jersey Podcast: Episode 1 (The Eye of the Stormy)</title>
-			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
-			<itunes:subtitle>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy.</itunes:subtitle>
-			<description>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy.</description>
-			<itunes:summary>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy.</itunes:summary>	
-			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey.m4a" length="30366967" type="audio/mpeg" />	
-			<guid>http://brewjersey.net/podcast/audio/BrewJersey.m4a</guid>	
+			<title>Episode 1 - The Eye of the Stormy</title>
+			<itunes:title>The Eye of the Stormy</itunes:title>
 			<pubDate>Mon, 12 Sep 2016 23:02:15 EST</pubDate>	
+			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey.m4a</guid>	
+			<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />
+			<description><![CDATA[<p>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy.</p>]]></description>			
+			<content:encoded><![CDATA[<p>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy.</p>]]></content:encoded>
+			<enclosure url="http://brewjersey.net/podcast/audio/BrewJersey.m4a" length="30366967" type="audio/mpeg" />	
 			<itunes:duration>30:52</itunes:duration>	
+			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>beer,microbrewery,new jersey,brewing,carton brewing</itunes:keywords>
+			<itunes:subtitle><![CDATA[Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy...]]></itunes:subtitle>
+			<itunes:summary>Your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss the New Jersey microbrewery, Carton Brewery - and their fantastic Rum-Barrel-Aged Porter, Stormy...</itunes:summary>	
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 		</item>
 
-
-		
-		
-	
 	</channel>
 </rss>
