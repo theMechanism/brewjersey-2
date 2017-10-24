@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="XSL_formatting" type="text/xsl" href="http://brewjersey.net/podcast.xsl"?>
-
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
 		<atom:link href="http://brewjersey.net/podcast/brewjersey-podcast.xml" rel="self" type="application/rss+xml" />
 		<title>Brew Jersey Podcast with Mike Auteri and Dave Fletcher</title>
+		<pubDate>Tue, 24 Oct 2017 08:00:15 EST</pubDate>	
+		<lastBuildDate>Tue, 24 Oct 2017 08:00:15 EST</lastBuildDate>
 		<link>http://www.brewjersey.net</link>
 		<language>en-us</language>
 		<copyright>Copyright 2017, The Mechanism, llc., Distributor.</copyright>
-		<webMaster>dave.fletcher@themechanism.com (Dave Fletcher)</webMaster>
+		<docs>http://www.brewjersey.net</docs>
 		<managingEditor>dave.fletcher@themechanism.com (Dave Fletcher)</managingEditor>
-			<image>
+		<webMaster>dave.fletcher@themechanism.com (Dave Fletcher)</webMaster>
+		<itunes:summary><![CDATA[Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.]]></itunes:summary>		
+		<image>
 				<url>http://brewjersey.net/podcast/images/brewjersey.png</url>
-				<title>Brew Jersey Podcast</title>
-				<link>http://www.brewjersey.net</link>
+				<title>Brew Jersey Podcast with Mike Auteri and Dave Fletcher</title>
+				<link><![CDATA[http://www.brewjersey.net]]></link>
 			</image>
-			
-			<itunes:owner>
+		<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>					
+		<itunes:category text="Arts">
+				<itunes:category text="Food"/>
+			</itunes:category>
+		<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
 				<itunes:name><![CDATA[Brew Jersey]]></itunes:name>
 				<itunes:email>podcast@brewjersey.net</itunes:email>
 			</itunes:owner>
-			
-			<itunes:category text="Arts">
-				<itunes:category text="Food"/>
-			</itunes:category>
-			
-			<itunes:keywords>beer, brewing, new jersey, cedar grove, verona, discussion, brewmaster</itunes:keywords>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />						
-			<pubDate>Mon, 12 Sep 2016 23:02:15 EST</pubDate>
-			<itunes:subtitle>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss, debate and sample New Jersey microbrews.</itunes:subtitle>
-			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
-			<itunes:summary>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.</itunes:summary>
-			<description>Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.</description>
+		<itunes:keywords>beer, brewing, new jersey, cedar grove, verona, discussion, brewmaster</itunes:keywords>
+		<itunes:subtitle><![CDATA[Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss, debate and sample New Jersey microbrews.]]></itunes:subtitle>
+		<description><![CDATA[Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.]]></description>
+
 		<itunes:type>episodic</itunes:type>
 
 		<item>
@@ -130,7 +129,6 @@
 			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 		</item>
 
-
 		<item>
 			<title>Episode 3 - Homes Brewery + Ramstein Interview</title>
 			<itunes:title>Homes Brewery + Ramstein Interview</itunes:title>
@@ -149,7 +147,6 @@
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
 		</item>
-
 
 		<item>
 			<title>Episode 2 - KBS Madness in Essex</title>
