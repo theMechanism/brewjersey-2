@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
 		<atom:link href="http://brewjersey.net/podcast/brewjersey-podcast.xml" rel="self" type="application/rss+xml" />
-		<title>Brew Jersey Podcast with Mike Auteri and Dave Fletcher</title>
+		<title>Brew Jersey Podcast</title>
 		<pubDate>Tue, 24 Oct 2017 08:00:15 EST</pubDate>	
 		<lastBuildDate>Tue, 24 Oct 2017 08:00:15 EST</lastBuildDate>
 		<link>http://www.brewjersey.net</link>
