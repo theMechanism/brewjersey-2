@@ -22,7 +22,7 @@
 		<itunes:category text="Arts">
 				<itunes:category text="Food"/>
 			</itunes:category>
-		<itunes:image href="http://brewjersey.net/podcast/images/episode-8.png" />
+		<itunes:image href="http://brewjersey.net/podcast/images/brew-jersey-podcast-main.jpg" />
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:owner>
 				<itunes:name><![CDATA[Brew Jersey]]></itunes:name>
@@ -39,7 +39,7 @@
 			<itunes:title>The Story of Hoboken Brewing (Part 1)</itunes:title>
 			<pubDate>Tue, 24 Oct 2017 08:00:15 EST</pubDate>	
 			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey-8.mp3</guid>	
-			<itunes:image href="http://brewjersey.net/podcast/images/episode-8.png" />
+			<itunes:image href="http://brewjersey.net/podcast/images/brew-jersey-podcast-main.jpg" />
 			<description><![CDATA[<p><a href="http://www.hobokenbrewing.beer/">Hoboken Brewing Company's</a> Andrew Zebrowski and Brendan Drury started brewing beer in their garage and won several home brewing contests. They say that this inspired them to go bigger and start making beer professionally. Mike and Dave dig deeper into their story as they join us at the fire pit to tell us about the history of their friendship, why they started the company, and where they are headed. Also, Tony Forder Editor/President at Ale Street News delivers our first <a href="https://alestreetnews.com/">Ale Street News</a> Report all the way from the <a href="http://www.riodecerveza.com/">Fifth Annual Rio De Cerveza Brew Fest</a>.</p>]]></description>
 			<content:encoded><![CDATA[<p><a href="http://www.hobokenbrewing.beer/">Hoboken Brewing Company's</a> Andrew Zebrowski and Brendan Drury started brewing beer in their garage and won several home brewing contests. They say that this inspired them to go bigger and start making beer professionally. Mike and Dave dig deeper into their story as they join us at the fire pit to tell us about the history of their friendship, why they started the company, and where they are headed. Also, Tony Forder Editor/President at Ale Street News delivers our first <a href="https://alestreetnews.com/">Ale Street News</a> Report all the way from the <a href="http://www.riodecerveza.com/">Fifth Annual Rio De Cerveza Brew Fest</a>.</p>]]></content:encoded>
 			<enclosure length="31165462" type="audio/mpeg" url="http://brewjersey.net/podcast/audio/BrewJersey-8.mp3" />	
