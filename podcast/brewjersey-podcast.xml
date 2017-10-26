@@ -22,7 +22,7 @@
 		<itunes:category text="Arts">
 				<itunes:category text="Food"/>
 			</itunes:category>
-		<itunes:image href="http://brewjersey.net/podcast/images/brewjersey.png" />
+		<itunes:image href="http://brewjersey.net/podcast/images/episode-8.png" />
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:owner>
 				<itunes:name><![CDATA[Brew Jersey]]></itunes:name>
