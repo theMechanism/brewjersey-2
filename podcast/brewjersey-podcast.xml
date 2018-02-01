@@ -35,6 +35,25 @@
 		<itunes:type>episodic</itunes:type>
 
 		<item>
+			<title>Episode 9 - The Story of Hoboken Brewing (Part 2)</title>
+			<itunes:title>The Story of Hoboken Brewing (Part 2)</itunes:title>
+			<pubDate>Tue, 30 Jan 2018 08:00:15 EST</pubDate>	
+			<guid isPermaLink="true">http://brewjersey.net/podcast/audio/BrewJersey-9.mp3</guid>	
+			<itunes:image href="http://brewjersey.net/podcast/images/brew-jersey-podcast-main.jpg" />
+			<description><![CDATA[<p>We complete our fireside chat with <a href="http://www.hobokenbrewing.beer/">Hoboken Brewing Company's</a> Andrew Zebrowski and Brendan Drury by discussing crazy investors, branding and their business advice for other microbrewers. AAlso, Tony Forder Editor/President at Ale Street News delivers our second mighty installment of <a href="https://alestreetnews.com/">Ale Street News</a>, featuring local brewing and brewery news.</p>]]></description>
+			<content:encoded><![CDATA[<p>We complete our fireside chat with <a href="http://www.hobokenbrewing.beer/">Hoboken Brewing Company's</a> Andrew Zebrowski and Brendan Drury by discussing crazy investors, branding and their business advice for other microbrewers. Also, Tony Forder Editor/President at Ale Street News delivers our second mighty installment of <a href="https://alestreetnews.com/">Ale Street News</a>, featuring local brewing and brewery news.</p>]]></content:encoded>
+			<enclosure length="89098994" type="audio/mpeg" url="http://brewjersey.net/podcast/audio/BrewJersey-9.mp3" />	
+			<itunes:duration>61:52</itunes:duration>	
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>brew jersey,hoboken brewing,andrew zebrowski,brendan drury,ale street news,tony forder,beer,microbrewery,new jersey,brewing</itunes:keywords>
+			<itunes:subtitle><![CDATA[Hoboken Brewing Company's Andrew Zebrowski and Brendan Drury join us at the firepit to wrap up their story of Hoboken Brewing Company...]]></itunes:subtitle>
+			<itunes:summary>Hoboken Brewing Company's Andrew Zebrowski and Brendan Drury join us at the firepit to wrap up their story of Hoboken Brewing Company...</itunes:summary>	
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Dave Fletcher, Michael Auteri</itunes:author>
+		</item>
+
+		<item>
 			<title>Episode 8 - The Story of Hoboken Brewing (Part 1)</title>
 			<itunes:title>The Story of Hoboken Brewing (Part 1)</itunes:title>
 			<pubDate>Tue, 24 Oct 2017 08:00:15 EST</pubDate>	
