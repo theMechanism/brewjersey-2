@@ -4,17 +4,17 @@
 	<channel>
 		<atom:link href="http://brewjersey.net/podcast/brewjersey-podcast.xml" rel="self" type="application/rss+xml" />
 		<title>Brew Jersey Podcast</title>
-		<pubDate>Tue, 24 Oct 2017 08:00:15 EST</pubDate>	
-		<lastBuildDate>Tue, 24 Oct 2017 08:00:15 EST</lastBuildDate>
+		<pubDate>Tue, 30 Jan 2018 08:00:15 EST</pubDate>	
+		<lastBuildDate>Tue, 30 Jan 2018 08:00:15 EST</lastBuildDate>
 		<link>http://www.brewjersey.net</link>
 		<language>en-us</language>
-		<copyright>Copyright 2017, The Mechanism, llc., Distributor.</copyright>
+		<copyright>Copyright 2017-2018, The Mechanism, llc., Distributor.</copyright>
 		<docs>http://www.brewjersey.net</docs>
 		<managingEditor>dave.fletcher@themechanism.com (Dave Fletcher)</managingEditor>
 		<webMaster>dave.fletcher@themechanism.com (Dave Fletcher)</webMaster>
 		<itunes:summary><![CDATA[Recorded somewhere on the Lanape Trail between Verona and Cedar Grove, your intrepid beermeisters, Michael Auteri and Dave Fletcher discuss New Jersey microbrews.]]></itunes:summary>		
 		<image>
-				<url>http://brewjersey.net/podcast/images/brewjersey.png</url>
+			<url>http://brewjersey.net/podcast/images/brew-jersey-podcast-main.jpg</url>
 				<title>Brew Jersey Podcast with Mike Auteri and Dave Fletcher</title>
 				<link><![CDATA[http://www.brewjersey.net]]></link>
 			</image>
